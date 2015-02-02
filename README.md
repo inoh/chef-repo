@@ -12,5 +12,7 @@ chef-solo sample
 
 $URLにレシピを適用したいサーバーのURLを指定
 
-- knife-solo prepare 
+- knife solo prepare $URL
 - knife solo cook $URL
+
+$URLで指定する名称でnodesフォルダ内に設定ファイルが必要です。

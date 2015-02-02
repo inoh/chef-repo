@@ -9,7 +9,10 @@
 
 gem_package "rails"
 gem_package "therubyracer"
+# TODO action install (up to date)
 gem_package "io-console"
+# TODO action install (up to date)
+gem_package "nokogiri"
 
 package "sqlite-devel" do
   action :install
