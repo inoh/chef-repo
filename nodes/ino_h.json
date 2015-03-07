@@ -2,7 +2,8 @@
   "run_list": [
     "recipe[nginx]",
     "recipe[rails]",
-    "recipe[unicorn]"
+    "recipe[unicorn]",
+    "recipe[postgres]"
   ],
   "automatic": {
     "ipaddress": "aws"

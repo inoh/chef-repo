@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: nginx
+# Cookbook Name:: core
 # Recipe:: default
 #
 # Copyright 2015, ino_h
